@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://taylorpestcontrolco.com/sitemap.xml
